@@ -5,4 +5,6 @@ Trabajo de juan pablo JAVA
 
 -[reto17](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/reto17.java)
 
+-[reto18](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/reto18.java)
+
 -[tipo de Pizza](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/pizzeria.java)
