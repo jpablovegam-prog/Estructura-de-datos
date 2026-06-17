@@ -10,3 +10,5 @@ Trabajo de juan pablo JAVA
 -[tipo de Pizza](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/pizzeria.java)
 
 -[Fizzbuzz](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/Fizzbuzz.java)
+
+-[Fibonacci](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/Fibonacci.java)
