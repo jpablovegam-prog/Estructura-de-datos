@@ -12,3 +12,5 @@ Trabajo de juan pablo JAVA
 -[Fizzbuzz](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/Fizzbuzz.java)
 
 -[Fibonacci](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/Fibonacci.java)
+
+-[Numeroprimo](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/numeroprimo.java)
