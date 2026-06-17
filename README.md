@@ -8,3 +8,5 @@ Trabajo de juan pablo JAVA
 -[reto18](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/reto18.java)
 
 -[tipo de Pizza](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/pizzeria.java)
+
+-[Fizzbuzz](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/Fizzbuzz.java)
