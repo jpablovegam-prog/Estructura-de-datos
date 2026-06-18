@@ -22,3 +22,9 @@ Trabajo de juan pablo JAVA
 -[pilasycolaspareseimpares](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/Colasparesimpares.java)
 
 -[filasdepersonas](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/Filapersonas.java)
+
+-[palabrasusandopila](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/palindromo.java)
+
+-[cafeteria](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/cafeteria.java)
+
+-[Claseperro](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/Perro.java)
