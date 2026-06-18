@@ -14,3 +14,5 @@ Trabajo de juan pablo JAVA
 -[Fibonacci](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/Fibonacci.java)
 
 -[Numeroprimo](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/numeroprimo.java)
+
+-[Arraylist](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/BecasEstudiantiles.java)
