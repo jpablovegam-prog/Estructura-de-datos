@@ -16,3 +16,5 @@ Trabajo de juan pablo JAVA
 -[Numeroprimo](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/numeroprimo.java)
 
 -[Arraylist](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/BecasEstudiantiles.java)
+
+-[pilasycolaspareseimpares](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/Colasparesimpares.java)
