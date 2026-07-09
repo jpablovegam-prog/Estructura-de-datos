@@ -35,10 +35,10 @@ Segundo parcial
 
 -[Nodo](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/Nodo.java)
 
--[ListaEnlazada]()
+-[ListaEnlazada](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/ListaEnlazada.java)
 
--[PrincipalLista]()
+-[PrincipalLista](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/PrincipalListaEnlazada.java)
 
--[principalLista]()
+-[principalLista](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/principalLista.java)
 
 -[CuadroComparativo]()
