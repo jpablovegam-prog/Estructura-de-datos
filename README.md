@@ -27,4 +27,18 @@ Trabajo de juan pablo JAVA
 
 -[cafeteria](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/cafeteria.java)
 
--[Claseperro](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/Perro.java)
+Segundo parcial 
+
+-[ListaEnlazadaBasica]()
+
+-[Nodo]()
+
+-[ListaEnlazada]()
+
+-[PrincipalLista]()
+
+-[principalLista]()
+
+-[CuadroComparativo]()
+-[Cla
+seperro](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/Perro.java)
