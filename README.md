@@ -30,6 +30,7 @@ Trabajo de juan pablo JAVA
 -[Claseperro](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/Perro.java)
 
 Segundo parcial 
+
 -[CuadroComparativo](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/hub.jpeg)
 
 -[ListaEnlazadaBasica](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/ListaEnlazadaBasica.java)
@@ -39,3 +40,9 @@ Segundo parcial
 -[ListaEnlazada](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/ListaEnlazada.java)
 
 -[principalLista](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/principalLista.java)
+
+-[NodoDoble](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/NodoDoble.java)
+
+-[ListaDobleEnlazada](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/ListaDobleEnlazada.java)
+
+-[PrincipalListaDoble](https://github.com/jpablovegam-prog/Estructura-de-datos/blob/main/PrincipalListaDoble.java)
